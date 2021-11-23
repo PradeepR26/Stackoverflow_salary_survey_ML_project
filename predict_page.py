@@ -19,7 +19,6 @@ def show_predict_page():
     st.write(""" ### we need some information to predict the salary""")
 
     countries = (
-        'Others',
         'United States of America',
         'India',
         'Germany',
