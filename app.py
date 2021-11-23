@@ -8,3 +8,4 @@ if page == 'Explore':
     show_explore_page()
 else:
     show_predict_page()
+    
